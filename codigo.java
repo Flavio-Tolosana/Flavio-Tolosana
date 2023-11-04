@@ -1,4 +1,4 @@
 class Socoro {
-    private int numeroMAIN;
-    private int otroNumeroMAIN;
+    private int numero;
+    private int otroNumero;
 }
