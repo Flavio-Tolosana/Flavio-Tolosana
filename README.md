@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Esto esta en negrira**
-
-Ahora añado este desde GitHub
+**Repositorio de GitHub de Flavio Tolosana Hernando**
