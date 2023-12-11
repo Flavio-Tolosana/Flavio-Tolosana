@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 **Repositorio de GitHub de Flavio Tolosana Hernando**
 
-Mi portafolios -> [PORTAFOLIOS](https://flavio-tolosana.github.io/Flavio-Tolosana-Portfolio/)
+[<p>Mi portfolio</p><img src="images\icon_portfolio.jpeg" alt="Flavio-Portfolio" width="50"/>](https://flavio-tolosana.github.io/Flavio-Tolosana-Portfolio/)
