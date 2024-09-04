@@ -23,4 +23,4 @@ Estudiante de Ingeniería Informática en Unizar
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[<img src="images\icon_portfolio.jpeg" width="50"/>](https://flavio-tolosana.github.io/Flavio-Tolosana-Portfolio/)
+[<img src="images\icon_portfolio.jpeg" width="50"/>](https://flavio-tolosana.github.io)
